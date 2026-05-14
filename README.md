@@ -1,6 +1,7 @@
-
-<img align="right" src="https://media.tenor.com/WX8OX2R3n4AAAAAi/cat-cat-running.gif" width="120"/>
+<img align="right" src="./cat.gif" width="120"/>
 
 # Hey, I'm Klea 👋
 
-Frontend Developer • Web Engineering Student
+🎓 M.Sc. Web Engineering @ TU Chemnitz  
+⚛️ React & TypeScript Developer  
+🚀 Building modern web applications
