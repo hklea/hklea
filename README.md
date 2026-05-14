@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Klea 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong> · React · Next.js · Node.js · Python<br/>
-  Based in Chemnitz, Germany · Open to full-stack & frontend roles
+  <strong>Frontend Software Engineer</strong> · React · Next.js · TypeScript<br/>
+  Based in Chemnitz, Germany · Open to frontend & full-stack roles
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ## About me
 
-Full-Stack Engineer with 3+ years of experience building scalable web applications end-to-end — from React frontends to Node.js/Python backends, REST APIs, databases, and cloud deployments. I enjoy working across the stack and building products that are both well-engineered and great to use.
+Frontend / Full-Stack Engineer with 3+ years of experience building scalable web applications. I care deeply about clean architecture, maintainable code, and great user experiences. Currently working at **TU Chemnitz** on a research data management platform, and pursuing my M.Sc. in Web Engineering.
 
-- 🔭 Currently building **ConvDMP** at TU Chemnitz — a full-stack research data management platform
-- 🗺️ Built **Web-GIS applications** with geospatial visualization and location-based systems
-- 🤖 Developed **AI-powered platforms** using RAG pipelines, OpenAI APIs, LangChain & FastAPI
-- 🎓 M.Sc. Web Engineering @ TU Chemnitz · B.Sc. Software Engineering (Honours) @ Epoka University
-- 💬 Languages: English (C1) · German (B1) · Albanian (Native)
+- 🔭 Currently building **ConvDMP** — a full-stack platform for structured Data Management Plans
+- 🌍 Experience with **Web-GIS & geospatial applications** (interactive maps, location-based systems)
+- 🤖 Built AI-powered apps using **RAG pipelines, OpenAI APIs & LangChain**
+- 💬 Ask me about React architecture, TypeScript, testing strategies, or Next.js
+- 🌱 Languages: English (C1) · German (B1) · Albanian (Native)
 
 ---
 
@@ -32,33 +32,21 @@ Full-Stack Engineer with 3+ years of experience building scalable web applicatio
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Backend**
+**State & Testing**
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+**Backend & Cloud**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-**Data & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
----
-
-## Featured projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Chemnitz Maps**](#) | Web-GIS app — geospatial visualization, interactive maps, location search | Next.js · Node.js · Express |
-| [**ConvDMP**](#) | Research data management platform with workflow automation & API integrations | React · Next.js · TypeScript · Tailwind |
-| [**Deutsch360**](#) | AI-powered German learning platform (web + mobile) with RAG pipeline & semantic search | React Native · FastAPI · OpenAI · LangChain |
-| [**Headless Commerce**](#) | Shopify-based e-commerce SPA — catalog, auth, cart, checkout & orders | React · TypeScript · Node.js · Shopify API |
-| [**Resume Assistant**](#) | RAG-based document analysis platform with parsing, embeddings & structured API | Next.js · Python · FastAPI |
 
 ---
 
@@ -72,5 +60,5 @@ Full-Stack Engineer with 3+ years of experience building scalable web applicatio
 ---
 
 <p align="center">
-  <em>Open to full-stack & frontend opportunities — feel free to reach out!</em>
+  <em>Currently open to frontend & full-stack opportunities — feel free to reach out!</em>
 </p>
