@@ -80,8 +80,8 @@ const klea = {
 ### `// github stats`
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=7f77dd&icon_color=5DCAA5&text_color=8b89a8&ring_color=534AB7" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7f77dd&text_color=8b89a8" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=hklea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=7f77dd&icon_color=5DCAA5&text_color=8b89a8&ring_color=534AB7" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hklea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7f77dd&text_color=8b89a8" />
 </div>
 
 <div align="center">
