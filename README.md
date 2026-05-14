@@ -1,64 +1,95 @@
-<h1 align="center">Hi, I'm Klea 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Frontend Software Engineer</strong> · React · Next.js · TypeScript<br/>
-  Based in Chemnitz, Germany · Open to frontend & full-stack roles
-</p>
+```
+╔══════════════════════════════════════════════════════╗
+║   hi, I'm Klea  ·  frontend / full-stack engineer   ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="mailto:khaxhiu24@gmail.com">📧 Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://YOUR_PORTFOLIO">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/YOUR_GITHUB">GitHub</a>
-</p>
+**`React · Next.js · TypeScript · Node.js · Python`**
 
----
+🟢 &nbsp;Open to frontend & full-stack opportunities
 
-## About me
+[![Email](https://img.shields.io/badge/email-khaxhiu24@gmail.com-7f77dd?style=flat-square&logo=gmail&logoColor=white)](mailto:khaxhiu24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Klea_Haxhiu-7f77dd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kleahaxhiu.dev-7f77dd?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
-Frontend / Full-Stack Engineer with 3+ years of experience building scalable web applications. I care deeply about clean architecture, maintainable code, and great user experiences. Currently working at **TU Chemnitz** on a research data management platform, and pursuing my M.Sc. in Web Engineering.
-
-- 🔭 Currently building **ConvDMP** — a full-stack platform for structured Data Management Plans
-- 🌍 Experience with **Web-GIS & geospatial applications** (interactive maps, location-based systems)
-- 🤖 Built AI-powered apps using **RAG pipelines, OpenAI APIs & LangChain**
-- 💬 Ask me about React architecture, TypeScript, testing strategies, or Next.js
-- 🌱 Languages: English (C1) · German (B1) · Albanian (Native)
+</div>
 
 ---
 
-## Tech stack
+```ts
+const klea = {
+  role:       "Frontend / Full-Stack Engineer",
+  location:   "Chemnitz, Germany 🇩🇪",
+  education:  ["M.Sc. Web Engineering @ TU Chemnitz",
+               "B.Sc. Software Engineering (Honours) @ Epoka University"],
+  currently:  "Building ConvDMP — a research data management platform",
+  experience: "3+ years",
+  languages:  ["English (C1)", "German (B1)", "Albanian (native)"],
+  looking_for: "frontend & full-stack roles",
+};
+```
+
+---
+
+### `// stack`
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**State & Testing**
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 
-**Backend & Cloud**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Data, Cloud & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## GitHub stats
+### `// projects`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+| &nbsp; | project | description | stack |
+|--------|---------|-------------|-------|
+| 🗺️ | **[Chemnitz Maps](#)** | Web-GIS app — geospatial visualization, interactive maps & location search | `Next.js` `Node.js` `Express` |
+| 📋 | **[ConvDMP](#)** | Research data management platform with structured workflows & validation pipelines | `React` `Next.js` `TypeScript` `Tailwind` |
+| 🤖 | **[Deutsch360](#)** | AI-powered German learning platform (web + mobile) with RAG & semantic search | `React Native` `FastAPI` `OpenAI` `LangChain` |
+| 🛍️ | **[Headless Commerce](#)** | Shopify-based e-commerce SPA — catalog, auth, cart, checkout & orders | `React` `TypeScript` `Node.js` |
+| 📄 | **[Resume Assistant](#)** | RAG-based document analysis with parsing, embeddings & structured API | `Next.js` `Python` `FastAPI` |
 
 ---
 
-<p align="center">
-  <em>Currently open to frontend & full-stack opportunities — feel free to reach out!</em>
-</p>
+### `// github stats`
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=7f77dd&icon_color=5DCAA5&text_color=8b89a8&ring_color=534AB7" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7f77dd&text_color=8b89a8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0a0a0f&color=7f77dd&line=534AB7&point=5DCAA5&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>built with care · always learning · open to great teams</sub>
+</div>
