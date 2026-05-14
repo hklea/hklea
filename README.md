@@ -85,7 +85,7 @@ const klea = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0a0a0f&color=7f77dd&line=534AB7&point=5DCAA5&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hklea&bg_color=0a0a0f&color=7f77dd&line=534AB7&point=5DCAA5&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
