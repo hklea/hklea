@@ -7,6 +7,8 @@
 
 ---
 
+### 🛠️ tech stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
@@ -31,16 +33,20 @@
 
 ---
 
+### 🌐 socials
+
 <div align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/klea-haxhiu-90218a257/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:khaxhiu24@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
 </div>
 
-<br/>
+---
+
+### 🕹️ contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hklea/hklea/pacman-output/pacman-contribution-graph-dark.svg" />
