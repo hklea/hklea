@@ -1,17 +1,22 @@
 <div align="center">
 
 # hi, i'm klea 👋
+
 **software engineer** · frontend focused · m.sc. web engineering
 
 building modern web experiences & exploring ai-powered systems
 
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=react+%2B+typescript;frontend+engineering;ai-powered+systems;clean+ui+%2F+ux;always+learning" />
+
 </div>
 
-<br/>
+---
 
 ### 🛠️ tech stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -35,9 +40,19 @@ building modern web experiences & exploring ai-powered systems
 
 <br/>
 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hklea&show_icons=true&theme=transparent&hide_border=true&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hklea&layout=compact&theme=transparent&hide_border=true&title_color=6E40C9&text_color=c9d1d9" />
+
+</div>
+
+---
+
 ### 🌐 socials
 
-<div align="left">
+<div align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
@@ -47,19 +62,7 @@ building modern web experiences & exploring ai-powered systems
   </a>
 </div>
 
-<br/>
-
-### 📊 github stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hklea&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hklea&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-<br/>
+---
 
 ### 🕹️ contribution graph
 
