@@ -51,8 +51,6 @@ Currently, I'm researching AI-augmented FAIRness assessment for research softwar
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/klea-haxhiu-90218a257/">
