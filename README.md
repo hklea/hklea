@@ -22,7 +22,7 @@ My main focus is frontend development, where I enjoy building clean, modern, and
 
 Alongside frontend engineering, I'm also interested in AI-assisted systems, usability, and research-oriented software development. I enjoy combining technical implementation with thoughtful user experience and continuously improving through hands-on projects.
 
-Currently, I’m working on projects involving AI-powered research software, conversational systems, and modern web technologies.
+Currently, I'm researching AI-augmented FAIRness assessment systems for research software repositories as part of my master's thesis, combining LLM-based analysis with rule-based evaluation approaches.
 
 ---
 
@@ -33,16 +33,6 @@ Currently, I’m working on projects involving AI-powered research software, con
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,python,fastapi,postgres,git,github,figma,vscode&perline=7" />
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hklea&show_icons=true&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9" alt="Klea's GitHub Stats" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hklea&layout=compact&theme=tokyonight&hide_border=true&title_color=6E40C9" alt="Klea's Top Languages" />
-</p>
 
 ---
 
@@ -64,11 +54,11 @@ Currently, I’m working on projects involving AI-powered research software, con
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/klea-haxhiu-90218a257/">
   <img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:khaxhiu24@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-1E1E2E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
