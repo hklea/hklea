@@ -9,7 +9,7 @@ and creating user-centered applications with real-world impact.
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=React+%2B+TypeScript;Frontend+Engineering;AI-Assisted+Software;Clean+UI+%2F+UX;Always+Learning" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=React+%2B+TypeScript;Frontend+Engineering;AI-Assisted+Software;Clean+UI+%2F+UX;Always+Learning" alt="Typing SVG" /> -->
 
 </div>
 
