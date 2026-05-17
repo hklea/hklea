@@ -3,7 +3,9 @@
 # Hi, I'm Klea 👋
 
 **Software Engineer** · Frontend Focused · M.Sc. Web Engineering
-*Building modern web experiences & exploring AI-powered systems*
+
+Building modern web experiences, researching AI-powered systems,  
+and creating software that combines usability with real-world impact.
 
 <br/>
 
@@ -13,19 +15,38 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 👩‍💻 About Me
+
+I'm a Software Engineer currently pursuing an M.Sc. in Web Engineering at TU Chemnitz, Germany.  
+My main focus is frontend development, where I enjoy building clean, modern, and user-centered web applications with React and TypeScript.
+
+Alongside frontend engineering, I'm also interested in AI-assisted systems, usability, and research-oriented software development. I enjoy combining technical implementation with thoughtful user experience and continuously improving through hands-on projects.
+
+Currently, I’m working on projects involving AI-powered research software, conversational systems, and modern web technologies.
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-| Frontend | Backend & DB | Tools |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwindcss" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" /> |
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,python,fastapi,postgres,git,github,figma,vscode&perline=7" />
 
 </div>
 
 ---
 
-### 🕹️ Contribution Graph
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hklea&show_icons=true&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9" alt="Klea's GitHub Stats" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hklea&layout=compact&theme=tokyonight&hide_border=true&title_color=6E40C9" alt="Klea's Top Languages" />
+</p>
+
+---
+
+## 🕹️ Contribution Graph
 
 <div align="center">
 
@@ -39,11 +60,16 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your_Color]?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klea-haxhiu-90218a257/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaxhiu24@gmail.com)
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-1E1E2E?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
