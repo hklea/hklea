@@ -25,15 +25,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hklea&show_icons=true&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9" alt="Klea's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hklea&layout=compact&theme=tokyonight&hide_border=true&title_color=6E40C9" alt="Klea's Top Languages" />
-</p>
-
----
-
 ### 🕹️ Contribution Graph
 
 <div align="center">
@@ -52,7 +43,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your_Color]?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your_Color]?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klea-haxhiu-90218a257/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaxhiu24@gmail.com)
 
 </div>
